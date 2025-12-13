@@ -6,11 +6,11 @@ Sistema de notificação de emergências em tempo real para segurança instituci
 
 O TJPB Alert é uma aplicação web fullstack desenvolvida para permitir que servidores do TJPB enviem e recebam alertas instantâneos sobre situações de risco em suas unidades de trabalho. O sistema classifica alertas por nível de prioridade e utiliza WebSocket para comunicação em tempo real.
 
-Este projeto foi desenvolvido como Trabalho de Conclusão de Curso da Pós-Graduação em Desenvolvimento Full Stack.
+Este projeto foi desenvolvido como Trabalho de Conclusão de Curso - TCC da Pós-Graduação em Desenvolvimento Full Stack da [Pontifícia Universidade Católica do Rio Grande do Sul - PUCRS](https://online.pucrs.br/pt-br/).
 
 ## Funcionalidades
 
-- Cadastro e autenticação de usuários com JWT
+- Autenticação de usuários com JWT
 - Envio de alertas de emergência com categorização
 - Notificações em tempo real via WebSocket
 - Classificação automática de prioridades
@@ -81,7 +81,7 @@ tjpb-alert/
 
 ## Orientação
 
-**Prof. **
+**Prof. Dr. Alexandre Agustini**
 - Instituição: Pontifícia Universidade Católica do Rio Grande do Sul - PUC-RS
 
 ## Licença
