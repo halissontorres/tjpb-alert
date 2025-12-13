@@ -81,7 +81,7 @@ tjpb-alert/
 
 ## Orientação
 
-**Prof. Dr. Alexandre Agustini**
+**[Prof. Dr. Alexandre Agustini](https://www.inf.pucrs.br/agustini/)**
 - Instituição: Pontifícia Universidade Católica do Rio Grande do Sul - PUC-RS
 
 ## Licença
