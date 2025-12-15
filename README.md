@@ -1,6 +1,7 @@
 <p align="center">
 <img src="assets/tjpb-alert-logo.png" width="300" height="150" alt="TJPB Alert"/>
 </p>
+
 # TJPB Alert
 
 Sistema de notificação de emergências em tempo real para segurança institucional do Tribunal de Justiça da Paraíba.
