@@ -94,7 +94,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## Agradecimentos
 
-- [Tribunal de Justiça da Paraíba](www.tjpb.jus.br)
+- [Tribunal de Justiça da Paraíba](https://www.tjpb.jus.br)
 
 ---
 
